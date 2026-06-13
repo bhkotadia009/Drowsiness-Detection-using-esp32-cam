@@ -163,7 +163,3 @@ EAR = (||p2-p6|| + ||p3-p5||) / (2 * ||p1-p4||)
 - No HTTPS; all communication is plain HTTP on local network.
 
 ---
-
-## License
-
-MIT
